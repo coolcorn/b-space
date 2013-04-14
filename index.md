@@ -4,6 +4,17 @@ title: Brookline School Population & Capacity Exploration (B-SPACE)
 ---
 This is **not** the official B-SPACE page, which is over at http://www.brooklinema.gov/index.php?option=com_content&view=article&id=1503&Itemid=1742 ... rather it's an attempt by [a Brookline parent](http://thedurbins.com/phil/devo) to highlight some information.
 
+<img src="./images/Baker-20_MET7874_75_75.jpg">
+<img src="./images/BHS-3_MET7813_75_75.jpg">
+<img src="./images/Devotion-23Brookline_Schools-7730_75_75.jpg">
+<img src="./images/Driscoll-34Brookline_Schools-7702_75_75.jpg">
+<img src="./images/Heath-57Brookline_Schools-7648-Edit_75_75.jpg">
+<img src="./images/Lawrence-8Brookline_Schools-7767_75_75.jpg">
+<img src="./images/Lincoln-17_MET7864.jpg">
+<img src="./images/lynchcenter.jpg">
+<img src="./images/Pierce-9_MET7835_75_75.jpg">
+<img src="./images/Runkle_75_75.jpg">
+
 ## FAQ PDF from April 2, 2013
 
 Of particular interest may be the [FAQ][] that was posted on the B-SPACE [files][] page April 2, 2013, a PDF which covers these questions: 

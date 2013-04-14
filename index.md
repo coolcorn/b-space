@@ -32,7 +32,7 @@ Of particular interest may be the [FAQ][] that was posted on the B-SPACE [files]
 
 ## April 8, 2013 B-SPACE Public Hearing
 
-If you missed the B-SPACE Public Hearing on April 8, you can watch it on YouTube:
+If you missed the B-SPACE Public Hearing on April 8, you can watch it at http://www.youtube.com/watch?v=nVKleqdk-EA
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/nVKleqdk-EA" frameborder="0" allowfullscreen></iframe>
 

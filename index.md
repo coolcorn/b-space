@@ -44,7 +44,7 @@ From http://www.brookline.k12.ma.us/index.php?option=com_content&view=article&id
 
 ## Ways to be heard
 
-1. By emailing the addresses listed at the bottom of the FAQ PDF from April 2, 2013 with the subject "Comments on New School Options"
+1. By emailing the addresses listed at the bottom of the [FAQ][] PDF from April 2, 2013 with the subject "Comments on New School Options"
     - alan_morse@brookline.k12.ma.us
     - robin_coyne@brookline.k12.ma.us
     - betsy@betsydewitt.com

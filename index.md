@@ -50,3 +50,6 @@ From http://www.brookline.k12.ma.us/index.php?option=com_content&view=article&id
     - betsy@betsydewitt.com
 2. By participating in https://www.facebook.com/groups/BrooklineNewSchool/
 3. By participating in http://brooklineschools.freeforums.net
+4. By taking the "independent survey to gather views on recent enrollment increases" at http://www.surveymonkey.com/s/66YYNJ2 ... http://www.lincolnschoolpto.org/lincoln-lines-april-9-2012-vol-6-no-27 says this about the survey: "A group of Brookline parents has created an independent survey to gather information on parent views of the various possibilities on the table to deal with recent enrollment increases. It is not affiliated with the School committee or with B-SPACE."
+
+
